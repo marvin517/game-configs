@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "gameId": "bubble-trip",
+  "platform": "android",
+  "channel": null,
+  "channelName": null,
+  "disabled": false,
+  "version": 5,
+  "path": "configs/bubble-trip/android",
+  "configPath": "configs/bubble-trip/android/v5.json",
+  "appVersion": "1.2.0",
+  "resourceVersion": "1.2.3",
+  "updatedAt": "2026-11-04T15:04:39.977Z"
+}
