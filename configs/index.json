@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T07:49:40.945Z",
+  "games": {
+    "bubble-trip": {
+      "name": "Bubble Trip",
+      "version": 4,
+      "path": "configs/bubble-trip",
+      "latestPath": "configs/bubble-trip/latest.json",
+      "configPath": "configs/bubble-trip/v4.json",
+      "appVersion": "1.2.0",
+      "resourceVersion": "1.2.3",
+      "updatedAt": "2026-11-04T07:49:40.945Z"
+    }
+  }
+}
