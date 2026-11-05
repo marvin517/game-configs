@@ -5,10 +5,10 @@
   "channel": null,
   "channelName": null,
   "disabled": false,
-  "version": 2,
+  "version": 3,
   "path": "configs/linego/android",
-  "configPath": "configs/linego/android/v2.json",
+  "configPath": "configs/linego/android/v3.json",
   "appVersion": "1.2.0",
   "resourceVersion": "1.0.0",
-  "updatedAt": "2026-11-05T06:39:27.058Z"
+  "updatedAt": "2026-11-05T06:49:08.357Z"
 }
