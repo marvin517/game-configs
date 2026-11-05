@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "gameId": "linego",
+  "platform": "android",
+  "channel": null,
+  "channelName": null,
+  "disabled": false,
+  "version": 2,
+  "path": "configs/linego/android",
+  "configPath": "configs/linego/android/v2.json",
+  "appVersion": "1.2.0",
+  "resourceVersion": "1.0.0",
+  "updatedAt": "2026-11-05T06:39:27.058Z"
+}
