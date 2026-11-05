@@ -1,14 +1,1 @@
-{
-  "schemaVersion": 1,
-  "gameId": "rebirth",
-  "platform": "android",
-  "channel": null,
-  "channelName": null,
-  "disabled": false,
-  "version": 3,
-  "path": "configs/rebirth/android",
-  "configPath": "configs/rebirth/android/v3.json",
-  "appVersion": "1.0.0",
-  "resourceVersion": "1.0.0",
-  "updatedAt": "2026-11-05T07:09:59.804Z"
-}
+{"disabled":false,"configPath":"configs/rebirth/android/v4.json","version":4}
