@@ -1,0 +1,5 @@
+# app-ads.txt — Google AdMob
+# 必须部署在“开发者网站”域名根目录，即 https://<你的域名>/app-ads.txt
+# 发布商 ID：pub-5000628874907580（AdMob 账号 chengzhi jiang / wuyou517@gmail.com）
+
+google.com, pub-5000628874907580, DIRECT, f08c47fec0942fa0
