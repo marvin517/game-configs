@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "gameId": "linego",
+  "gameName": "linego",
+  "path": "configs/linego/android",
+  "platform": "android",
+  "channel": null,
+  "channelName": null,
+  "version": 7,
+  "generatedAt": "2026-11-06T09:18:23.086Z",
+  "release": {
+    "appVersion": "1.2.0",
+    "buildNumber": 42,
+    "stage": "production",
+    "resourceVersion": "1.0.0",
+    "notes": "第一版本",
+    "configVersion": 7
+  },
+  "hotUpdate": {
+    "enabled": true,
+    "provider": "yooasset",
+    "basePath": "hot/bubble-trip",
+    "manifestFile": "project.manifest",
+    "publicBaseUrl": "",
+    "platformPaths": {
+      "android": "android",
+      "ios": "ios",
+      "web": "web"
+    },
+    "note": "资源由 Unity 构建流程导出到该目录；配置只负责下发版本和路径。"
+  },
+  "assets": [
+    {
+      "id": "asset_rorj0q9nga",
+      "kind": "icon",
+      "name": "icon.png",
+      "fileName": "screenshot-2026-11-05-142947-942.png",
+      "mime": "image/png",
+      "size": 47621,
+      "width": 224,
+      "height": 244,
+      "note": "",
+      "path": "configs/linego/assets/screenshot-2026-11-05-142947-942.png",
+      "url": "https://cdn.jsdelivr.net/gh/marvin517/game-configs@main/configs/linego/assets/screenshot-2026-11-05-142947-942.png"
+    }
+  ],
+  "ads": {
+    "enabled": false,
+    "network": "admob",
+    "testMode": false,
+    "appIds": {
+      "android": "ca-app-pub-3940256099942544~3347511713",
+      "ios": "ca-app-pub-3940256099942544~1458002511",
+      "web": ""
+    },
+    "placements": [
+      {
+        "id": "plc_oc1u8sjebq",
+        "name": "插屏-关卡结束",
+        "format": "interstitial",
+        "unitIds": {
+          "android": "ca-app-pub-3940256099942544/1033173712",
+          "ios": "ca-app-pub-3940256099942544/4411468910",
+          "web": ""
+        },
+        "enabled": true
+      },
+      {
+        "id": "plc_goz5026qll",
+        "name": "激励-双倍金币",
+        "format": "rewarded",
+        "unitIds": {
+          "android": "ca-app-pub-3940256099942544/5224354917",
+          "ios": "ca-app-pub-3940256099942544/1712485313",
+          "web": ""
+        },
+        "enabled": true
+      },
+      {
+        "id": "plc_8rm7spwu6q",
+        "name": "横幅-主菜单",
+        "format": "banner",
+        "unitIds": {
+          "android": "ca-app-pub-3940256099942544/6300978111",
+          "ios": "ca-app-pub-3940256099942544/2934735716",
+          "web": ""
+        },
+        "enabled": true
+      }
+    ],
+    "frequency": {
+      "interstitialMinIntervalSec": 90,
+      "interstitialMinGamesBetween": 2,
+      "rewardedCooldownSec": 30,
+      "appOpenEnabled": true
+    },
+    "consent": {
+      "gdprEnabled": true,
+      "coppa": false,
+      "ageGate": true,
+      "attPrompt": true
+    }
+  },
+  "iap": {
+    "enabled": false,
+    "restoreButton": true,
+    "dailyFreeClaims": 3,
+    "products": []
+  },
+  "analytics": {
+    "enabled": false,
+    "provider": "gameanalytics",
+    "gameKey": "",
+    "secretKey": "",
+    "appId": "",
+    "debug": false,
+    "note": ""
+  },
+  "configTables": [],
+  "features": {
+    "minAppVersion": {
+      "android": "1.0.0",
+      "ios": "1.0.0",
+      "web": "1.0.0"
+    },
+    "forceUpdate": false,
+    "updateUrl": {
+      "android": "https://play.google.com/store/apps/details?id=com.yourstudio.bubbletrip",
+      "ios": "https://apps.apple.com/app/id0000000000",
+      "web": "https://yourstudio.itch.io/bubble-trip"
+    },
+    "maintenance": {
+      "enabled": false,
+      "message": {
+        "en": "",
+        "zh": ""
+      },
+      "startAt": "",
+      "endAt": ""
+    },
+    "flags": [
+      {
+        "key": "new_levels_batch",
+        "enabled": true,
+        "rollout": 100,
+        "note": "第二章节关卡"
+      },
+      {
+        "key": "rewarded_double",
+        "enabled": true,
+        "rollout": 50,
+        "note": "激励视频双倍奖励 A/B"
+      },
+      {
+        "key": "hard_mode",
+        "enabled": false,
+        "rollout": 0,
+        "note": ""
+      }
+    ],
+    "announcements": [
+      {
+        "id": "ann_kow8rockny",
+        "level": "event",
+        "enabled": true,
+        "title": {
+          "en": "Weekend event",
+          "zh": "周末活动",
+          "ja": "週末イベント"
+        },
+        "body": {
+          "en": "Double coins until Sunday!",
+          "zh": "本周日之前金币翻倍！",
+          "ja": "日曜日までコイン2倍！"
+        },
+        "startAt": "2026-01-01",
+        "endAt": "",
+        "actionUrl": ""
+      }
+    ],
+    "languages": [
+      "en",
+      "zh",
+      "ja"
+    ],
+    "entries": [
+      {
+        "key": "ui.play",
+        "values": {
+          "en": "Play",
+          "zh": "开始游戏",
+          "ja": "プレイ"
+        }
+      },
+      {
+        "key": "ui.daily_reward",
+        "values": {
+          "en": "Daily reward",
+          "zh": "每日奖励",
+          "ja": "デイリーボーナス"
+        }
+      },
+      {
+        "key": "msg.force_update",
+        "values": {
+          "en": "Please update to continue.",
+          "zh": "请更新到最新版本后继续游戏。",
+          "ja": "続行するにはアップデートしてください。"
+        }
+      }
+    ]
+  },
+  "balance": {
+    "groups": [
+      {
+        "id": "grp_3bs4mffpqm",
+        "name": "关卡难度",
+        "values": [
+          {
+            "key": "base_obstacle_speed",
+            "type": "number",
+            "value": 1.2,
+            "min": 0.5,
+            "max": 3,
+            "note": "基础障碍速度"
+          },
+          {
+            "key": "speed_growth_per_level",
+            "type": "number",
+            "value": 0.06,
+            "min": 0,
+            "max": 0.2,
+            "note": "每关速度增量"
+          },
+          {
+            "key": "max_levels",
+            "type": "int",
+            "value": 120,
+            "min": 1,
+            "max": 500,
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "grp_13lgxkdq6f",
+        "name": "经济",
+        "values": [
+          {
+            "key": "coins_per_level",
+            "type": "int",
+            "value": 25,
+            "min": 0,
+            "max": 500,
+            "note": ""
+          },
+          {
+            "key": "revive_cost",
+            "type": "int",
+            "value": 50,
+            "min": 0,
+            "max": 1000,
+            "note": "复活消耗"
+          },
+          {
+            "key": "double_coins_enabled",
+            "type": "bool",
+            "value": true,
+            "min": null,
+            "max": null,
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "crossPromo": {
+    "enabled": true,
+    "games": [
+      {
+        "id": "pg_kzab6px7c6",
+        "name": "cookie-factory",
+        "link": "https://marvin517.itch.io/cookie-factory",
+        "iconUrl": "",
+        "platforms": [
+          "android",
+          "web"
+        ],
+        "weight": 100,
+        "enabled": true
+      },
+      {
+        "id": "pg_bhux9e5aan",
+        "name": "Block Puzzle Night",
+        "link": "https://yourstudio.itch.io/block-puzzle-night",
+        "iconUrl": "",
+        "platforms": [
+          "web",
+          "android"
+        ],
+        "weight": 60,
+        "enabled": true
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "srf_svf8tsrrmk",
+        "screen": "home",
+        "customScreen": "",
+        "slot": "home.bottom_banner",
+        "gameIds": [],
+        "enabled": true,
+        "note": ""
+      },
+      {
+        "id": "srf_estap1ul9a",
+        "screen": "gameover",
+        "customScreen": "",
+        "slot": "gameover.more_games",
+        "gameIds": [],
+        "enabled": true,
+        "note": "失败后展示，最多 2 个"
+      }
+    ],
+    "behaviors": [
+      {
+        "id": "beh_02ucu7fhis",
+        "event": "game_over",
+        "customEvent": "",
+        "action": "show_cross_promo",
+        "params": {},
+        "condition": "level >= 3",
+        "cooldownSec": 120,
+        "enabled": true,
+        "note": ""
+      },
+      {
+        "id": "beh_9od8limpol",
+        "event": "game_over",
+        "customEvent": "",
+        "action": "show_interstitial",
+        "params": {},
+        "condition": "games_played >= 2",
+        "cooldownSec": 90,
+        "enabled": true,
+        "note": "优先于交叉推广，二者互斥"
+      },
+      {
+        "id": "beh_vaba6kn9s7",
+        "event": "rewarded_completed",
+        "customEvent": "",
+        "action": "grant_coins",
+        "params": {
+          "amount": "100"
+        },
+        "condition": "",
+        "cooldownSec": 0,
+        "enabled": true,
+        "note": ""
+      }
+    ]
+  }
+}
