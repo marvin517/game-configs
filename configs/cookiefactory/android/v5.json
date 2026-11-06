@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "gameId": "cookiefactory",
+  "gameName": "cookiefactory",
+  "path": "configs/cookiefactory/android",
+  "platform": "android",
+  "channel": null,
+  "channelName": null,
+  "version": 5,
+  "generatedAt": "2026-11-06T08:07:01.987Z",
+  "release": {
+    "appVersion": "1.0.0",
+    "buildNumber": 1,
+    "stage": "production",
+    "resourceVersion": "1.0.0",
+    "notes": "",
+    "configVersion": 5
+  },
+  "hotUpdate": {
+    "enabled": false,
+    "provider": "yooasset",
+    "basePath": "",
+    "manifestFile": "project.manifest",
+    "publicBaseUrl": "",
+    "platformPaths": {
+      "android": "android",
+      "ios": "ios",
+      "web": "web"
+    },
+    "note": ""
+  },
+  "assets": [
+    {
+      "id": "asset_m0zu0ci1cg",
+      "kind": "icon",
+      "name": "ic_launcher",
+      "fileName": "ic-launcher.png",
+      "mime": "image/png",
+      "size": 32991,
+      "width": 192,
+      "height": 192,
+      "note": "",
+      "path": "configs/cookiefactory/assets/ic-launcher.png",
+      "url": "https://cdn.jsdelivr.net/gh/marvin517/game-configs@main/configs/cookiefactory/assets/ic-launcher.png"
+    }
+  ],
+  "ads": {
+    "enabled": false,
+    "network": "admob",
+    "testMode": false,
+    "appIds": {
+      "android": "",
+      "ios": "",
+      "web": ""
+    },
+    "placements": [],
+    "frequency": {
+      "interstitialMinIntervalSec": 60,
+      "interstitialMinGamesBetween": 2,
+      "rewardedCooldownSec": 30,
+      "appOpenEnabled": false
+    },
+    "consent": {
+      "gdprEnabled": true,
+      "coppa": false,
+      "ageGate": false,
+      "attPrompt": true
+    }
+  },
+  "iap": {
+    "enabled": false,
+    "restoreButton": true,
+    "dailyFreeClaims": 0,
+    "products": []
+  },
+  "analytics": {
+    "enabled": false,
+    "provider": "gameanalytics",
+    "gameKey": "",
+    "secretKey": "",
+    "appId": "",
+    "debug": false,
+    "note": ""
+  },
+  "configTables": [],
+  "features": {
+    "minAppVersion": {
+      "android": "",
+      "ios": "",
+      "web": ""
+    },
+    "forceUpdate": false,
+    "updateUrl": {
+      "android": "",
+      "ios": "",
+      "web": ""
+    },
+    "maintenance": {
+      "enabled": false,
+      "message": {},
+      "startAt": "",
+      "endAt": ""
+    },
+    "flags": [],
+    "announcements": [],
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "entries": []
+  },
+  "balance": {
+    "groups": []
+  },
+  "crossPromo": {
+    "enabled": false,
+    "games": [],
+    "surfaces": [],
+    "behaviors": []
+  }
+}
