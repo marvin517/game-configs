@@ -5,10 +5,10 @@
   "channel": null,
   "channelName": null,
   "disabled": false,
-  "version": 6,
+  "version": 5,
   "path": "configs/cookiefactory/android",
-  "configPath": "configs/cookiefactory/android/v6.json",
+  "configPath": "configs/cookiefactory/android/v5.json",
   "appVersion": "1.0.0",
-  "resourceVersion": "1.0.0",
-  "updatedAt": "2026-11-06T09:18:23.086Z"
+  "resourceVersion": "1.0.1",
+  "updatedAt": "2026-11-10T02:31:01.084Z"
 }

@@ -7,19 +7,19 @@
   "channel": null,
   "channelName": null,
   "version": 5,
-  "generatedAt": "2026-11-06T08:07:01.987Z",
+  "generatedAt": "2026-11-10T02:31:01.084Z",
   "release": {
     "appVersion": "1.0.0",
     "buildNumber": 1,
     "stage": "production",
-    "resourceVersion": "1.0.0",
+    "resourceVersion": "1.0.1",
     "notes": "",
     "configVersion": 5
   },
   "hotUpdate": {
-    "enabled": false,
-    "provider": "yooasset",
-    "basePath": "",
+    "enabled": true,
+    "provider": "cocos-assets",
+    "basePath": "hot/cookiefactory",
     "manifestFile": "project.manifest",
     "publicBaseUrl": "",
     "platformPaths": {

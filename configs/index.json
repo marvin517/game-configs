@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T09:18:23.086Z",
+  "generatedAt": "2026-11-10T02:31:01.084Z",
   "games": {
     "linego": {
       "name": "linego",
@@ -8,12 +8,12 @@
       "assetCount": 1,
       "platforms": {
         "android": {
-          "version": 7,
+          "version": 8,
           "latestPath": "configs/linego/android/latest.json",
-          "configPath": "configs/linego/android/v7.json",
+          "configPath": "configs/linego/android/v8.json",
           "appVersion": "1.2.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-06T09:18:23.086Z",
+          "updatedAt": "2026-11-10T02:31:01.084Z",
           "channels": {}
         }
       }
@@ -24,12 +24,12 @@
       "assetCount": 1,
       "platforms": {
         "android": {
-          "version": 6,
+          "version": 7,
           "latestPath": "configs/rebirth/android/latest.json",
-          "configPath": "configs/rebirth/android/v6.json",
+          "configPath": "configs/rebirth/android/v7.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-06T09:18:23.086Z",
+          "updatedAt": "2026-11-10T02:31:01.084Z",
           "channels": {}
         }
       }
@@ -40,21 +40,21 @@
       "assetCount": 1,
       "platforms": {
         "android": {
-          "version": 6,
+          "version": 5,
           "latestPath": "configs/cookiefactory/android/latest.json",
-          "configPath": "configs/cookiefactory/android/v6.json",
+          "configPath": "configs/cookiefactory/android/v5.json",
           "appVersion": "1.0.0",
-          "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-06T09:18:23.086Z",
+          "resourceVersion": "1.0.1",
+          "updatedAt": "2026-11-10T02:31:01.084Z",
           "channels": {}
         },
         "web": {
-          "version": 6,
+          "version": 7,
           "latestPath": "configs/cookiefactory/web/latest.json",
-          "configPath": "configs/cookiefactory/web/v6.json",
+          "configPath": "configs/cookiefactory/web/v7.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-06T09:18:23.086Z",
+          "updatedAt": "2026-11-10T02:31:01.084Z",
           "channels": {}
         }
       }
