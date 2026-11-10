@@ -1,0 +1,327 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.17",
+        "UnityVersion": "2022.3.62f3",
+        "BuildDate": "2026/11/10 15:39:23",
+        "BuildSeconds": 3,
+        "BuildTarget": 13,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "Game_ArrowEscape",
+        "BuildPackageVersion": "0.1.0-1",
+        "BuildPackageNote": "2026/11/10 15:39:19",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 2,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "Game_ArrowEscape_shaders",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 18,
+        "MainAssetTotalCount": 18,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 2541067,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "ArrowEscape.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/ArrowEscape.Core.dll.bytes",
+            "AssetGUID": "23cc4fd28d01c934dae247ecb720634c",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "ArrowEscape.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/ArrowEscape.Runtime.dll.bytes",
+            "AssetGUID": "4307e47ccf3ef2a42b1add7566fef668",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GameFrame.Aot.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameFrame.Aot.dll.bytes",
+            "AssetGUID": "44f9402340401d748869a55d6b3844b5",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Launcher.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/Launcher.dll.bytes",
+            "AssetGUID": "4162a4d2f8c45f348adcf667938a974b",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "f6758dc32e4dc4748b28dce2f45e4c04",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "430ea4b902f06c64f893361a4376c79e",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "8ff95d66db1e3fd4b942a9d40fe8854f",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "892128426f8494b48828b2554d2f0fa0",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "99b21e4052ca06d4182531e44551d502",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.AudioModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.AudioModule.dll.bytes",
+            "AssetGUID": "2cc0a93ffae50d04597123634029a9db",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "6175715f2be518e4b9184beed4f5840b",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.IMGUIModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.IMGUIModule.dll.bytes",
+            "AssetGUID": "60be7dc60f092ff43b4e239af92f3f09",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.JSONSerializeModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.JSONSerializeModule.dll.bytes",
+            "AssetGUID": "0f2fb6d05d5e40d43850784c1b9e8f44",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.TextRenderingModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.TextRenderingModule.dll.bytes",
+            "AssetGUID": "a858e8dc86ea0e04ba3a463a76b336d7",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.UI.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.UI.dll.bytes",
+            "AssetGUID": "ba8a44eaa9f8b8c49a019fec76ce27bf",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.UIModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.UIModule.dll.bytes",
+            "AssetGUID": "48dd8944a1939664ca1ff6c13582b05e",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+            "AssetGUID": "de831bd0f79215844bd46e0ab9cdb45c",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "MainBundleSize": 2214577,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "NotoSansSC-subset",
+            "AssetPath": "Assets/Games/ArrowEscape/Content/NotoSansSC-subset.ttf",
+            "AssetGUID": "fa3d9fa52b34d7d46ba61550592b90a0",
+            "AssetTags": [],
+            "MainBundleName": "game_arrowescape_assets_games_arrowescape_content.bundle",
+            "MainBundleSize": 326490,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "game_arrowescape_assets_assetraw_dll.bundle",
+            "FileName": "game_arrowescape_assets_assetraw_dll_f8191dc67117983e90ad7a5591f043f7.bundle",
+            "FileHash": "f8191dc67117983e90ad7a5591f043f7",
+            "FileCRC": 3118952522,
+            "FileSize": 2214577,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/ArrowEscape.Core.dll.bytes",
+                    "AssetGUID": "23cc4fd28d01c934dae247ecb720634c"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/ArrowEscape.Runtime.dll.bytes",
+                    "AssetGUID": "4307e47ccf3ef2a42b1add7566fef668"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/GameFrame.Aot.dll.bytes",
+                    "AssetGUID": "44f9402340401d748869a55d6b3844b5"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/Launcher.dll.bytes",
+                    "AssetGUID": "4162a4d2f8c45f348adcf667938a974b"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+                    "AssetGUID": "f6758dc32e4dc4748b28dce2f45e4c04"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+                    "AssetGUID": "430ea4b902f06c64f893361a4376c79e"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+                    "AssetGUID": "8ff95d66db1e3fd4b942a9d40fe8854f"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+                    "AssetGUID": "892128426f8494b48828b2554d2f0fa0"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+                    "AssetGUID": "99b21e4052ca06d4182531e44551d502"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.AudioModule.dll.bytes",
+                    "AssetGUID": "2cc0a93ffae50d04597123634029a9db"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+                    "AssetGUID": "6175715f2be518e4b9184beed4f5840b"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.IMGUIModule.dll.bytes",
+                    "AssetGUID": "60be7dc60f092ff43b4e239af92f3f09"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.JSONSerializeModule.dll.bytes",
+                    "AssetGUID": "0f2fb6d05d5e40d43850784c1b9e8f44"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.TextRenderingModule.dll.bytes",
+                    "AssetGUID": "a858e8dc86ea0e04ba3a463a76b336d7"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.UI.dll.bytes",
+                    "AssetGUID": "ba8a44eaa9f8b8c49a019fec76ce27bf"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.UIModule.dll.bytes",
+                    "AssetGUID": "48dd8944a1939664ca1ff6c13582b05e"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+                    "AssetGUID": "de831bd0f79215844bd46e0ab9cdb45c"
+                }
+            ]
+        },
+        {
+            "BundleName": "game_arrowescape_assets_games_arrowescape_content.bundle",
+            "FileName": "game_arrowescape_assets_games_arrowescape_content_36d1c7e5ebbd02e75cdec33e840db545.bundle",
+            "FileHash": "36d1c7e5ebbd02e75cdec33e840db545",
+            "FileCRC": 2297396332,
+            "FileSize": 326490,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Games/ArrowEscape/Content/NotoSansSC-subset.ttf",
+                    "AssetGUID": "fa3d9fa52b34d7d46ba61550592b90a0"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

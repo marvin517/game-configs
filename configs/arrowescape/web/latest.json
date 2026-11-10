@@ -5,10 +5,10 @@
   "channel": null,
   "channelName": null,
   "disabled": false,
-  "version": 1,
+  "version": 3,
   "path": "configs/arrowescape/web",
-  "configPath": "configs/arrowescape/web/v1.json",
+  "configPath": "configs/arrowescape/web/v3.json",
   "appVersion": "1.0.0",
   "resourceVersion": "1.0.0",
-  "updatedAt": "2026-11-10T03:19:49.006Z"
+  "updatedAt": "2026-11-10T07:56:06.540Z"
 }
