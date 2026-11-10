@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "Game_ArrowEscape",
-    "PackageVersion": "0.1.0-1",
-    "PackageNote": "2026/11/10 15:39:19",
+    "PackageVersion": "0.1.2-2-20261110125247",
+    "PackageNote": "2026/11/10 20:52:48",
     "AssetList": [
         {
             "Address": "ArrowEscape.Core.dll",
@@ -160,10 +160,10 @@
     "BundleList": [
         {
             "BundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "UnityCRC": 2747991594,
-            "FileHash": "f8191dc67117983e90ad7a5591f043f7",
-            "FileCRC": 3118952522,
-            "FileSize": 2214577,
+            "UnityCRC": 1924034269,
+            "FileHash": "78eaa3c85fbf2d992184cb0e0d8ce88f",
+            "FileCRC": 3542025330,
+            "FileSize": 2211490,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []

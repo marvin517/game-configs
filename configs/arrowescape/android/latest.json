@@ -5,10 +5,10 @@
   "channel": null,
   "channelName": null,
   "disabled": false,
-  "version": 3,
+  "version": 4,
   "path": "configs/arrowescape/android",
-  "configPath": "configs/arrowescape/android/v3.json",
+  "configPath": "configs/arrowescape/android/v4.json",
   "appVersion": "1.0.0",
   "resourceVersion": "1.0.0",
-  "updatedAt": "2026-11-10T07:56:06.540Z"
+  "updatedAt": "2026-11-10T12:53:56.667Z"
 }
