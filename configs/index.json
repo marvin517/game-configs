@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T02:31:01.084Z",
+  "generatedAt": "2026-11-10T03:19:49.006Z",
   "games": {
     "linego": {
       "name": "linego",
@@ -13,7 +13,7 @@
           "configPath": "configs/linego/android/v8.json",
           "appVersion": "1.2.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-10T02:31:01.084Z",
+          "updatedAt": "2026-11-10T02:31:18.261Z",
           "channels": {}
         }
       }
@@ -29,7 +29,7 @@
           "configPath": "configs/rebirth/android/v7.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-10T02:31:01.084Z",
+          "updatedAt": "2026-11-10T02:31:18.261Z",
           "channels": {}
         }
       }
@@ -45,7 +45,7 @@
           "configPath": "configs/cookiefactory/android/v5.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.1",
-          "updatedAt": "2026-11-10T02:31:01.084Z",
+          "updatedAt": "2026-11-10T02:31:18.261Z",
           "channels": {}
         },
         "web": {
@@ -54,7 +54,32 @@
           "configPath": "configs/cookiefactory/web/v7.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-10T02:31:01.084Z",
+          "updatedAt": "2026-11-10T02:31:18.261Z",
+          "channels": {}
+        }
+      }
+    },
+    "arrowescape": {
+      "name": "arrowescape",
+      "path": "configs/arrowescape",
+      "assetCount": 0,
+      "platforms": {
+        "android": {
+          "version": 1,
+          "latestPath": "configs/arrowescape/android/latest.json",
+          "configPath": "configs/arrowescape/android/v1.json",
+          "appVersion": "1.0.0",
+          "resourceVersion": "1.0.0",
+          "updatedAt": "2026-11-10T03:19:49.006Z",
+          "channels": {}
+        },
+        "web": {
+          "version": 1,
+          "latestPath": "configs/arrowescape/web/latest.json",
+          "configPath": "configs/arrowescape/web/v1.json",
+          "appVersion": "1.0.0",
+          "resourceVersion": "1.0.0",
+          "updatedAt": "2026-11-10T03:19:49.006Z",
           "channels": {}
         }
       }
