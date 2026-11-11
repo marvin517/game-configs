@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T12:53:56.667Z",
+  "generatedAt": "2026-11-11T13:59:35.272Z",
   "games": {
     "linego": {
       "name": "linego",
@@ -65,21 +65,21 @@
       "assetCount": 0,
       "platforms": {
         "android": {
-          "version": 4,
+          "version": 5,
           "latestPath": "configs/arrowescape/android/latest.json",
-          "configPath": "configs/arrowescape/android/v4.json",
+          "configPath": "configs/arrowescape/android/v5.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-10T12:53:56.667Z",
+          "updatedAt": "2026-11-11T13:59:35.272Z",
           "channels": {}
         },
         "web": {
-          "version": 4,
+          "version": 5,
           "latestPath": "configs/arrowescape/web/latest.json",
-          "configPath": "configs/arrowescape/web/v4.json",
+          "configPath": "configs/arrowescape/web/v5.json",
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
-          "updatedAt": "2026-11-10T12:53:56.667Z",
+          "updatedAt": "2026-11-11T13:59:35.272Z",
           "channels": {}
         }
       }

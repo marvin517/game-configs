@@ -9,9 +9,17 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "Game_ArrowEscape",
-    "PackageVersion": "0.1.2-2-20261110125247",
-    "PackageNote": "2026/11/10 20:52:48",
+    "PackageVersion": "0.1.0-1-20261111134915",
+    "PackageNote": "2026/11/11 21:49:39",
     "AssetList": [
+        {
+            "Address": "ArrowEscape.Config.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/ArrowEscape.Config.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
         {
             "Address": "ArrowEscape.Core.dll",
             "AssetPath": "Assets/AssetRaw/DLL/ArrowEscape.Core.dll.bytes",
@@ -149,6 +157,14 @@
             "DependBundleIDs": []
         },
         {
+            "Address": "language",
+            "AssetPath": "Assets/Games/ArrowEscape/Content/Config/language.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
             "Address": "NotoSansSC-subset",
             "AssetPath": "Assets/Games/ArrowEscape/Content/NotoSansSC-subset.ttf",
             "AssetGUID": "",
@@ -160,10 +176,10 @@
     "BundleList": [
         {
             "BundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "UnityCRC": 1924034269,
-            "FileHash": "78eaa3c85fbf2d992184cb0e0d8ce88f",
-            "FileCRC": 3542025330,
-            "FileSize": 2211490,
+            "UnityCRC": 1057596777,
+            "FileHash": "d8aa678ae6fc985955f47c4356abe47c",
+            "FileCRC": 1719171336,
+            "FileSize": 2220502,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -174,6 +190,16 @@
             "FileHash": "36d1c7e5ebbd02e75cdec33e840db545",
             "FileCRC": 2297396332,
             "FileSize": 326490,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "game_arrowescape_assets_games_arrowescape_content_config.bundle",
+            "UnityCRC": 2935888351,
+            "FileHash": "9912be18aa2f98c40f82c4421a263778",
+            "FileCRC": 1055684614,
+            "FileSize": 2425,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
