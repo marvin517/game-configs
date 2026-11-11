@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.17",
         "UnityVersion": "2022.3.62f3",
-        "BuildDate": "2026/11/11 21:49:45",
-        "BuildSeconds": 5,
+        "BuildDate": "2026/11/11 22:19:01",
+        "BuildSeconds": 3,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "Game_ArrowEscape",
-        "BuildPackageVersion": "0.1.0-1-20261111134915",
-        "BuildPackageNote": "2026/11/11 21:49:39",
+        "BuildPackageVersion": "0.1.1-2-20261111141856",
+        "BuildPackageNote": "2026/11/11 22:18:58",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 20,
         "MainAssetTotalCount": 20,
         "AllBundleTotalCount": 3,
-        "AllBundleTotalSize": 2549417,
+        "AllBundleTotalSize": 2553736,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -48,7 +48,7 @@
             "AssetGUID": "7d39c5d256ea67246bf4a49798507aa3",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -58,7 +58,7 @@
             "AssetGUID": "23cc4fd28d01c934dae247ecb720634c",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -68,7 +68,7 @@
             "AssetGUID": "4307e47ccf3ef2a42b1add7566fef668",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -78,7 +78,7 @@
             "AssetGUID": "44f9402340401d748869a55d6b3844b5",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -88,7 +88,7 @@
             "AssetGUID": "4162a4d2f8c45f348adcf667938a974b",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -98,7 +98,7 @@
             "AssetGUID": "f6758dc32e4dc4748b28dce2f45e4c04",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -108,7 +108,7 @@
             "AssetGUID": "430ea4b902f06c64f893361a4376c79e",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -118,7 +118,7 @@
             "AssetGUID": "8ff95d66db1e3fd4b942a9d40fe8854f",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -128,7 +128,7 @@
             "AssetGUID": "892128426f8494b48828b2554d2f0fa0",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -138,7 +138,7 @@
             "AssetGUID": "99b21e4052ca06d4182531e44551d502",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -148,7 +148,7 @@
             "AssetGUID": "2cc0a93ffae50d04597123634029a9db",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -158,7 +158,7 @@
             "AssetGUID": "6175715f2be518e4b9184beed4f5840b",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -168,7 +168,7 @@
             "AssetGUID": "60be7dc60f092ff43b4e239af92f3f09",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -178,7 +178,7 @@
             "AssetGUID": "0f2fb6d05d5e40d43850784c1b9e8f44",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -188,7 +188,7 @@
             "AssetGUID": "a858e8dc86ea0e04ba3a463a76b336d7",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -198,7 +198,7 @@
             "AssetGUID": "ba8a44eaa9f8b8c49a019fec76ce27bf",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -208,7 +208,7 @@
             "AssetGUID": "48dd8944a1939664ca1ff6c13582b05e",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -218,7 +218,7 @@
             "AssetGUID": "de831bd0f79215844bd46e0ab9cdb45c",
             "AssetTags": [],
             "MainBundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2220502,
+            "MainBundleSize": 2224821,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -246,10 +246,10 @@
     "BundleInfos": [
         {
             "BundleName": "game_arrowescape_assets_assetraw_dll.bundle",
-            "FileName": "game_arrowescape_assets_assetraw_dll_d8aa678ae6fc985955f47c4356abe47c.bundle",
-            "FileHash": "d8aa678ae6fc985955f47c4356abe47c",
-            "FileCRC": 1719171336,
-            "FileSize": 2220502,
+            "FileName": "game_arrowescape_assets_assetraw_dll_1962bed4c9db0863e8391ebd0f5a9386.bundle",
+            "FileHash": "1962bed4c9db0863e8391ebd0f5a9386",
+            "FileCRC": 2853196541,
+            "FileSize": 2224821,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
