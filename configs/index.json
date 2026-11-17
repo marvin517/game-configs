@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:19:34.134Z",
+  "generatedAt": "2026-11-17T07:56:00.000Z",
   "games": {
     "linego": {
       "name": "linego",
@@ -80,6 +80,31 @@
           "appVersion": "1.0.0",
           "resourceVersion": "1.0.0",
           "updatedAt": "2026-11-11T14:19:34.134Z",
+          "channels": {}
+        }
+      }
+    },
+    "huehive": {
+      "name": "huehive",
+      "path": "configs/huehive",
+      "assetCount": 0,
+      "platforms": {
+        "web": {
+          "version": 1,
+          "latestPath": "configs/huehive/web/latest.json",
+          "configPath": "configs/huehive/web/v1.json",
+          "appVersion": "0.1.1",
+          "resourceVersion": "1.0.0",
+          "updatedAt": "2026-11-17T07:56:00.000Z",
+          "channels": {}
+        },
+        "android": {
+          "version": 1,
+          "latestPath": "configs/huehive/android/latest.json",
+          "configPath": "configs/huehive/android/v1.json",
+          "appVersion": "0.1.1",
+          "resourceVersion": "1.0.0",
+          "updatedAt": "2026-11-17T07:56:00.000Z",
           "channels": {}
         }
       }
